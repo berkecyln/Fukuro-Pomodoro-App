@@ -4,8 +4,8 @@
 
 **Fukuro** is an intuitive Pomodoro Technique timer designed to help you focus on your tasks and take regular breaks. Crafted with a simple and interactive UI, it ensures that you manage your work and rest intervals efficiently, boosting productivity.
 
-![fukuro_splashScreen](https://github.com/berkeceylan/PomodoroApp/assets/29989098/ad8d9c4f-cf46-45fc-88bb-228f4c9ce8d8)
-![fukuro_mainScreen](https://github.com/berkeceylan/PomodoroApp/assets/29989098/e44f9891-ea85-478f-894d-ad79f843f8c1)
+![fukuro_splashScreen](https://github.com/berkecyln/PomodoroApp/assets/29989098/ad8d9c4f-cf46-45fc-88bb-228f4c9ce8d8)
+![fukuro_mainScreen](https://github.com/berkecyln/PomodoroApp/assets/29989098/e44f9891-ea85-478f-894d-ad79f843f8c1)
 
 
 ## Features:
